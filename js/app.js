@@ -11,6 +11,9 @@
  */
 
 // Shuffle function from http://stackoverflow.com/a/2450976
+const card;
+const flip;
+const pair;
 
 function shuffle(array) {
     var currentIndex = array.length, temporaryValue, randomIndex;
